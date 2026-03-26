@@ -151,8 +151,7 @@ print(classification_report(y_test, y_pred))
 
 ### **1️⃣ Clone the repo**
 ```bash
-git clone https://github.com/your-username/Spam-Email-Classifier.git
-cd Spam-Email-Classifier
+https://github.com/gaurigiri777-prog/-Spam-Email-Classification-using-Scikit-Learn-
 ```
 
 ### **2️⃣ Install dependencies**
@@ -198,4 +197,4 @@ If you like this project, **star ⭐ the repository**.
 
 👤 Your Name : Gauri Giri
 📧 Email: gaurigiri777@gmail.com
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub: https://github.com/gaurigiri777-prog
